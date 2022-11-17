@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TaviloBreno/mini-loja-virtual/issues"
   },
-  "homepage": "https://github.com/TaviloBreno/mini-loja-virtual#readme"
+  "homepage": "https://github.com/TaviloBreno/mini-loja-virtual#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
