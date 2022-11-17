@@ -1,0 +1,19 @@
+{
+  "name": "rest-api-node-carrinho-compra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaviloBreno/mini-loja-virtual.git"
+  },
+  "author": "Tavilo Breno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaviloBreno/mini-loja-virtual/issues"
+  },
+  "homepage": "https://github.com/TaviloBreno/mini-loja-virtual#readme"
+}
